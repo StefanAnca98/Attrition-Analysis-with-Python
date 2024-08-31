@@ -1,0 +1,22 @@
+name: pec3_win
+channels:
+  - defaults
+dependencies:
+  - imbalanced-learn
+  - jupyter
+  - keras
+  - matplotlib=3.7
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - scipy
+  - seaborn
+  - setuptools
+  - tensorflow
+  - tensorflow-base
+  - pip:
+    - keras-core
+    - keras-tuner
